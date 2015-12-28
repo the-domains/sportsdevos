@@ -2,10 +2,39 @@
     <channel>
         <title><![CDATA[Sportsdevos]]></title>
         <description><![CDATA[Sportsdevos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sportsdevos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 03:04:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 03:19:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sportsdevos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Safe With The Savior Sports Devotional]]></title>
+            <description><![CDATA[<article><h1>Safe With The Savior Sports Devotional</h1><p>Baseball & softball feature lots of sprinting. From
+
+the moment the ball pings off the bat, players 
+
+begin racing around. We run toward security, we scurry 
+
+to avoid the tag. All we want is to be safe, on that base, 
+
+freed from the penalties of our sin and the weariness of 
+
+life’s trials. While you’re running, you’re in danger, 
+
+unsafe until you make contact with the Savior. That’s 
+
+where true security is found. And when you land on 
+
+His base, no matter what, He chases after you and will 
+
+bring you all the way home!
+
+“There is therefore now no condemnation for those 
+
+who are in Christ Jesus” (Rom 8:1).</p></article>]]></description>
+            <link>https://thegrid.ai/sportsdevos/safe-with-the-savior-sports-devotional/index.html</link>
+            <guid isPermaLink="false">28771772-49dc-4462-9cb6-54b65ec47c16</guid>
+            <pubDate>Mon, 28 Dec 2015 03:19:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Freedom Sports Devotion]]></title>
             <description><![CDATA[<article><h1>Freedom Sports Devotion</h1><p>Every week on the news we find another group of
@@ -31,7 +60,7 @@ nothing that Christ the liberator cannot conquer.
 “Where the spirit of the Lord is, there is Freedom” 
 
 (2 Cor 3:17). </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5eff7dfe7415c4893d0e45d921773c61db3c321b.jpg"></article>]]></description>
-            <link>undefinedfreedom-sports-devotion/index.html</link>
+            <link>https://thegrid.ai/sportsdevos/freedom-sports-devotion/index.html</link>
             <guid isPermaLink="false">4f255fd3-ace3-446d-901a-ac961e53798c</guid>
             <pubDate>Mon, 28 Dec 2015 03:04:02 GMT</pubDate>
         </item>
