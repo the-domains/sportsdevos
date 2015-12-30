@@ -1,6 +1,6 @@
 name: Sportsdevos
 favicon: null
-layout_spectrum: 0.49706
+layout_spectrum: 0.17321
 typography_spectrum: 0.537
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.125
   lightness: 0.25
   saturation: 0.625
-  rhythmicContrast: 0.10003525880165398
+  rhythmicContrast: 0.25
 purpose: []
