@@ -4,8 +4,15 @@
         <description><![CDATA[Sportsdevos]]></description>
         <link>https://thegrid.ai/sportsdevos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 16:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 16:52:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sportsdevos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life Change]]></title>
+            <description><![CDATA[<article><h1>Life Change</h1><p>Sports Devotion on the life changing power of God's Word</p></article>]]></description>
+            <link>https://thegrid.ai/sportsdevos/life-change/index.html</link>
+            <guid isPermaLink="false">a01a3f57-776f-41af-ac55-5f1319ed49e2</guid>
+            <pubDate>Wed, 06 Jan 2016 16:51:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rules Of The Game]]></title>
             <description><![CDATA[<article><h1>Rules Of The Game</h1><p>Every game has rules that define the boundaries of
@@ -175,16 +182,6 @@ around the bases and back home.
             <link>https://thegrid.ai/sportsdevos/round-the-bases/index.html</link>
             <guid isPermaLink="false">cf163d21-6164-4330-8cf7-5a67ef5cb207</guid>
             <pubDate>Wed, 30 Dec 2015 05:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hail Mary]]></title>
-            <description><![CDATA[<article><h1>Hail Mary</h1><p>When the distance to the goal line is long and time
-is short, football coaches call a Hail Mary pass.
-The quarterback is not able to target particular receiv-
-ers; he just throws deep down</p></article>]]></description>
-            <link>https://thegrid.ai/sportsdevos/hail-mary/index.html</link>
-            <guid isPermaLink="false">27682f2f-dd6a-4a9c-b69a-490cca6d60e6</guid>
-            <pubDate>Wed, 30 Dec 2015 05:21:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
