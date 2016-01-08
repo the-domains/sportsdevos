@@ -4,8 +4,14 @@
         <description><![CDATA[Sportsdevos]]></description>
         <link>https://thegrid.ai/sportsdevos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 18:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 22:26:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sportsdevos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/sportsdevos/0e6e9c39-11ce-471a-bac7-7dfb4126f733/index.html</link>
+            <guid isPermaLink="false">0e6e9c39-11ce-471a-bac7-7dfb4126f733</guid>
+            <pubDate>Fri, 08 Jan 2016 22:25:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Change Outside In]]></title>
             <description><![CDATA[<article><h1>Change Outside In</h1><p>Have you experienced what it’s like to be on the outside? The full understanding that you are without 
@@ -248,14 +254,6 @@ Gospel!
             <link>https://thegrid.ai/sportsdevos/button-hook/index.html</link>
             <guid isPermaLink="false">c68ada93-8497-4e2e-a291-315b1d43d76f</guid>
             <pubDate>Wed, 30 Dec 2015 05:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Blocker]]></title>
-            <description><![CDATA[<article><h1>The Blocker</h1><p>The set is up, the hitter is in the air... spike! But
-no it’s blocked! </p></article>]]></description>
-            <link>https://thegrid.ai/sportsdevos/the-blocker/index.html</link>
-            <guid isPermaLink="false">e2c7cbf6-a13e-4a31-a7f2-bbfa2ed57631</guid>
-            <pubDate>Wed, 30 Dec 2015 05:30:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
